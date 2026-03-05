@@ -1,0 +1,24 @@
+# Ignore built executables
+main.exe
+
+# Common temporary files
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.so
+*.log
+
+# Visual Studio / IDE
+.vscode/
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# Generated images and caches
+*.png
+*.jpg
+*.bmp
